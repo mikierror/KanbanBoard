@@ -74,8 +74,7 @@ src/
 If you liked this project or want to collaborate:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/suryansh-kaintura-374829370/)
-- 🐦 [Twitter (X)](https://x.com/your-profile)
-- 📫 Email: SuryanshKaintura07@gmail.com
+- 📫 Email: suryanshkaintura07@gmail.com
 
 ---
 
