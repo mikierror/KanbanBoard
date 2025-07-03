@@ -38,4 +38,65 @@ This application demonstrates key concepts like state management, conditional re
 ---
 
 ## 📂 Folder Structure
+src/
+├── Components/
+│ ├── Todo.jsx
+│ ├── Inprogress.jsx
+│ └── Finish.jsx
+├── Kanban.jsx
+└── App.jsx
+
+
+
+## 🛠️ Features
+
+| Feature            | Status     |
+|--------------------|------------|
+| Add new tasks      | ✅ Done     |
+| Select board on add| ✅ Done     |
+| Edit task inline   | ✅ Done     |
+| Drag and Drop      | ✅ Done     |
+
+
+---
+
+## 🔮 Future Improvements
+
+- ✅ Task deletion feature
+- ✅ Save tasks to `localStorage`
+- ✅ Better UI animations
+- ✅ Add deadline/tags/priority
+
+---
+
+## 🤝 Let's Connect
+
+If you liked this project or want to collaborate:
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/suryansh-kaintura-374829370/)
+- 🐦 [Twitter (X)](https://x.com/your-profile)
+- 📫 Email: SuryanshKaintura07@gmail.com
+
+---
+
+## 🏁 Getting Started
+
+1. Clone the repo  
+   `git clone https://github.com/your-username/kanban-board.git`
+
+2. Install dependencies  
+   `npm install`
+
+3. Start the dev server  
+   `npm run dev`
+
+---
+
+## 📄 License
+
+This project is open source and free to use.
+
+---
+
+Made with 💙 by Suryansh
 
